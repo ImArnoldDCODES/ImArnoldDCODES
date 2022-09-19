@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImArnoldDCODES
-- 👀 I’m interested in Frontend, Web2, Web3
-- 🌱 I’m currently learning Web 3
+- 👀 I’m interested in Frontend Web Development
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Frontend Web2 projects for now
 - 📫 How to reach me https://twitter.com/Arnold00972
 
