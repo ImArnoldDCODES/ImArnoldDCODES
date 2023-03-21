@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Frontend web projects
-- 📫 How to reach me https://twitter.com/ImADCodes
+- 📫 How to reach me https://www.linkedin.com/in/arnold-daniels-9b26a1218/
 
 (●'◡'●)😊
 <!---
